@@ -19,5 +19,6 @@
     "gridUnits": "ft",
     "primaryTokenAttribute": "Hit Points",
     "secondaryTokenAttribute": "Class Charges",
-    "initiative": "1d20"
+    "initiative": "1d20",
+    "manifest": "https://github.com/archfiendrubicante/Mossberg/blob/main/system.json"
 }
