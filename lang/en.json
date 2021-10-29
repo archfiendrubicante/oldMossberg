@@ -1,0 +1,41 @@
+{
+    "Mossberg": {
+        "Weapon":{
+            "tier": "Tier",
+            "damage": "Damage",
+            "element": "Element",
+            "attackType": "Attack Type",
+            "enchantment": "Enchantment"
+        },
+        "Armor":{
+            "tier": "Tier",
+            "maxhitpoints": "Max Hit Points",
+            "element": "Element",
+            "enchantment:": "Enchantment"
+        },
+        "Tools":{
+            "tier": "Tier",
+            "classcharges": "Class Charges",
+            "tooltype": "Tool Type",
+            "enchantment:": "Enchantment"
+        },
+        "Tokens":{
+            "damage": "Damage",
+            "maxhitpoints": "Max Hit Points",
+            "classcharges": "Class Charges",
+            "equipmentSlot": "Equipment Slot",
+            "enchantment": "Enchantment"
+        },
+        "Consumables":{
+            "damageBonus": "Damage Bonus",
+            "maxHitPointBonus": "Max Hit Points Bonus",
+            "healedHitPoints": "Healing Amount",
+            "classChargesRestored": "Class Charges Restored",
+            "temporaryHitPoints": "Temporary Hit Points Gained"
+        },
+        "Flavor":{
+            "itemName": "Item Name",
+            "description": "Description"
+        }
+    }
+}

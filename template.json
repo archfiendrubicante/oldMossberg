@@ -1,4 +1,52 @@
 {
     "Actor":{},
-    "Item": {}
+    "Item": {
+        "types":[
+            "Weapon", 
+            "Armor", 
+            "Tools", 
+            "Tokens", 
+            "Consumables", 
+            "Flavor"
+        ],
+        "Weapon":{
+            "tier": 0,
+            "damage": 5,
+            "element": "normal",
+            "attackType": "melee",
+            "enchantment": "none"
+        },
+        "Armor":{
+            "tier": 0,
+            "maxhitpoints": 0,
+            "element": "normal",
+            "enchantment:": "none"
+        },
+        "Tools":{
+            "tier": 0,
+            "classcharges": 0,
+            "tooltype": "mundane",
+            "enchantment:": "none"
+        },
+        "Tokens":{
+            "damage": 0,
+            "maxhitpoints": 0,
+            "classcharges": 0,
+            "equipmentSlot": "none",
+            "enchantment": "none"
+        },
+        "Consumables":{
+            "damageBonus": 0,
+            "maxHitPointBonus": 0,
+            "healedHitPoints": 0,
+            "classChargesRestored": 0,
+            "temporaryHitPoints": 0
+        },
+        "Flavor":{
+            "itemName": "",
+            "description": ""
+        }
+
+
+    }
 }
